@@ -1,4 +1,7 @@
 # Pattern-Classification-Project
+## Requirements
+#### numpy matplotlib pytorch sklearn ... (just some common packages)
+## Problems
 #### lab1:p.127 Prob. 1
 #### lab2:p.129 Prob. 9
 #### lab3:some perceptrons and variants of supervised task on iris
