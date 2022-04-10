@@ -8,6 +8,7 @@
 #### lab4:p.409 Prob. 2
 #### lab5:p.411 Prob. 7
 #### lab6:p.475-476 Prob. 2&3
+#### lab7:PCA&MDA&DPDR for ORL faces classification 
 ## Data
 details showed in the lab report
 ## Some results
