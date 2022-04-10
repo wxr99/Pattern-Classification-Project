@@ -12,4 +12,4 @@
 ## Data
 details showed in the lab report
 ## Some results
-coming soom in report!
+coming soom in report! Due to some reasons, report would be submitted when class is over ...
